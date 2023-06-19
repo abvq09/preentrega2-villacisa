@@ -37,14 +37,8 @@ header .textHeader {
   color: white;
 }
 header .textHeader h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-style: oblique;
-}
-header .textHeader h2 {
-  font-size: 30px;
-  align-items: baseline;
-  font-weight: 250;
-  font-style: normal;
   margin-bottom: 5%;
 }
 header .wave {
