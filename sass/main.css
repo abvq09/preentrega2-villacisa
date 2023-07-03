@@ -6,7 +6,7 @@ header .navbar {
   text-align: right;
   padding: 10px 40px 0 0;
   margin-bottom: 20%;
-  font-size: 20px;
+  font-size: 16px;
 }
 header .navbar.bg-propio {
   background-color: rgba(0, 0, 0, 0.87);
@@ -131,19 +131,6 @@ footer p {
 
 #carouselProductos .carousel-indicators button.active {
   background-color: #000;
-}
-#carouselProductos .carousel-item img {
-  width: 100%;
-  height: auto;
-  display: flex;
-}
-#carouselProductos .carousel-control-prev,
-#carouselProductos .carousel-control-next {
-  background-color: rgba(0, 0, 0, 0.5);
-}
-#carouselProductos .carousel-control-prev span,
-#carouselProductos .carousel-control-next span {
-  color: #fff;
 }
 
 .container .row {
@@ -293,20 +280,6 @@ footer p {
   margin-right: 20px;
 }
 .contenedor-nuestra-historia:nth-child(2) .contenedor-nuestra-historia .contenido-texto p {
-  font-size: 16px;
-  line-height: 1.5;
-  margin-bottom: 10px;
-}
-
-.container.my-2 .row .col-md-3 .titulo {
-  font-size: 24px;
-  font-weight: bold;
-}
-.container.my-2 .row .col-md-5 img.img-fluid {
-  width: 100%;
-  height: auto;
-}
-.container.my-2 .row .col-md-4.us-propio p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 10px;
